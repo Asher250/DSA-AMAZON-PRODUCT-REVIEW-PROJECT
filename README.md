@@ -25,6 +25,8 @@ The dataset contains detailed information on Amazon products, including:
   - Ratings
 Each row represents a *unique product*, with reviewer details stored as comma-separated values.
 
+![Screenshot (3)](https://github.com/user-attachments/assets/d955a71b-752c-462a-98d2-336f098c1dbb)
+
 ## 🎯 Objectives
 
 - Identify top-performing products using a combined score metric (rating + review count)
@@ -46,6 +48,7 @@ Each row represents a *unique product*, with reviewer details stored as comma-se
 
 
 ### 📊 Dashboard Overview
+![Screenshot (5)](https://github.com/user-attachments/assets/3daef017-a7d2-43d6-8588-e14f8f309b4e)
 
 This main dashboard summarizes product performance, price segmentation, and key insights in a single view. 
 
@@ -54,7 +57,6 @@ Identify high-potential products combining product category and discount percent
 
 💸 *Highest Average Rating*
 Calculated by Main Category + Rating.
-
 
 🎯 *Rating vs Discount Analysis*
 Examine how discount levels influence product ratings to support promotional planning.
@@ -84,10 +86,10 @@ Using pivot table to answer some of the following questions;
 13.	Which categories have products with the highest discounts? 
 14.	Identify the top 5 products in terms of rating and number of reviews combined. 
 
+### Analysis
+![Screenshot (6)](https://github.com/user-attachments/assets/5d46bd1e-d2c1-49ee-9dd8-28e697f76bbe)
 
-
-
-
+![Screenshot (7)](https://github.com/user-attachments/assets/c84ea250-3937-4396-9d5b-7091e7b665f7)
 
 
 
