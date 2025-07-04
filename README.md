@@ -26,6 +26,7 @@ The dataset contains detailed information on Amazon products, including:
 Each row represents a *unique product*, with reviewer details stored as comma-separated values.
 
 ![Screenshot (3)](https://github.com/user-attachments/assets/d955a71b-752c-462a-98d2-336f098c1dbb)
+IMAGE OF THE CLEANED EXCEL DATA SET
 
 ## 🎯 Objectives
 
@@ -90,6 +91,17 @@ Using pivot table to answer some of the following questions;
 ![Screenshot (6)](https://github.com/user-attachments/assets/5d46bd1e-d2c1-49ee-9dd8-28e697f76bbe)
 
 ![Screenshot (7)](https://github.com/user-attachments/assets/c84ea250-3937-4396-9d5b-7091e7b665f7)
+
+IMAGE SHOWING ANSWERS TO THE ABOVE QUESTIONS.
+
+
+
+Open to comments and feedbacks
+
+THANK YOU!
+Asher Robert.
+
+
 
 
 
